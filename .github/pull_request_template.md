@@ -9,7 +9,7 @@
 ### Checklist
 
 * [ ] exercise_1.py … exercise_5.py are all present in my folder
-* [ ] Every file runs with `python` without errors and prints the expected output from EXERCISES.md
+* [ ] Every file runs without errors (`python3`, or `py` on Windows) and prints the expected output from EXERCISES.md
 * [ ] exercise_2.py no longer raises a TypeError
 * [ ] I did not change any files outside my own folder
 * [ ] My branch is named after my GitHub username
